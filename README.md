@@ -2,8 +2,8 @@
 This is a **content-based movie recommender system** built using the [TMDb (The Movie Database)]([https://www.themoviedb.org/](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)) dataset. It recommends movies based on similarity in features such as genres, cast, crew, keywords, and more.
 ## 📂 Dataset
 The project uses the following two files from the TMDb dataset:
-tmdb_5000_movies.xls
-tmdb_5000_credits.xls
+tmdb_5000_movies.csv
+tmdb_5000_credits.csv
 ## 🧠 Project Features
 1. Preprocessing of data including parsing JSON columns
 2. Feature engineering with genres, cast, crew, keywords
